@@ -6,7 +6,7 @@
 
 My work connects research, design and engineering—from understanding a human need to defining the logic, experience and operations behind a product. I come from industrial and product design, with experience across physical products, digital systems and product operations. That background shapes how I build: look at the whole system, question the assumptions, and care about what happens after something ships.
 
-Today, I’m building **Oddsense**, bringing structured reasoning, football intelligence and responsible product thinking together.
+Today, I’m building **Oddsense**, bringing structured reasoning, sports intelligence and responsible product thinking together.
 
 [Oddsense](https://oddsense.net) · [LinkedIn](https://www.linkedin.com/in/kelvnwilsn/) · [ORCID](https://orcid.org/0009-0005-3692-9596)
 
